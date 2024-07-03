@@ -143,4 +143,4 @@ This report delves into the Australian Road Accident data from 1989 to 2021, aim
 
 ## References
 
-- All references and sources used in the three report that is in my repo.
+- All references and sources used in this project are in my three report that is in my repo.
