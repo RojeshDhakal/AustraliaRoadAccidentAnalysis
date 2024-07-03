@@ -5,6 +5,11 @@
 ### Background of the Study
 
 This report delves into the Australian Road Accident data from 1989 to 2021, aiming to uncover significant patterns and trends that contribute to road fatalities. The analysis uses inferential statistics, data visualization, and comprehensive exploration to understand the main causes of crash incidents. The ultimate goal is to inform the creation of safety measures and policies to reduce road accidents and save lives.
+## Tools Used
+- Ms Power BI
+- Ms Excel
+- Ms Word (3 Reports)
+- Ms Power Point
 
 ## Data Wrangling
 
@@ -132,8 +137,8 @@ This report delves into the Australian Road Accident data from 1989 to 2021, aim
 
 ## Conclusions
 
-- Key findings and conclusions drawn from the analysis are presented.
+- Key findings and conclusions drawn from the analysis are presented in each individual report.
 
 ## References
 
-- All references and sources used in the report are listed here.
+- All references and sources used in the three report that is in my repo.
