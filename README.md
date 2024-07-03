@@ -64,7 +64,7 @@ This report delves into the Australian Road Accident data from 1989 to 2021, aim
 
 ### Dataset Overview
 
-- The dataset includes Australian Road Accident data from 1989 to 2021. The data, sourced from the Australian Road Death Database, is available on Kaggle in CSV format [here](link_to_data).
+- The dataset includes Australian Road Accident data from 1989 to 2021. The data, sourced from the Australian Road Death Database, is available on Kaggle in CSV format.
 
 ### Variables
 
