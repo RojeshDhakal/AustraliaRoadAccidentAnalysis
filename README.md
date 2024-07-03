@@ -73,6 +73,8 @@ This report delves into the Australian Road Accident data from 1989 to 2021, aim
 ### Dashboard
 
 - A comprehensive dashboard is provided for visualizing key insights from the data.
+  ![Main Dashboard](https://github.com/RojeshDhakal/AustraliaRoadAccidentAnalysis/raw/main/Visualization%201/main%20dashboard.PNG)
+
 
 ### Descriptive Statistics for Quantitative Variables
 
